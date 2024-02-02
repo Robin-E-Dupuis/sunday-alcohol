@@ -28,5 +28,5 @@ elif(("washington" or "oregon" or "california" or "nevada" or "arizona"
                       or "missouri" or "wisconsin" or "tennessee" or "indiana" or "ohio"
                       or "michigan" or "west virginia" or "virginia" or "maryland" or "delaware"
                       or "new jersey" or "pennsylvania" or "new york" or "rhode island" or "connecticut"
-                      or "massachusetts" or "vermont" or "new hampshire" or "maine" ))in state:
+                      or "massachusetts" or "vermont" or "new hampshire" or "maine" or "alaska" ))in state:
     print("You can buy alcohol on sunday")
